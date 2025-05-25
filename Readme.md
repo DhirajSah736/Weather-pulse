@@ -40,3 +40,19 @@ Designed and developed with ❤️ by **Dhiraj Sah**
 - 📧 eyemdheeraj436@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/dhiraj-sah-7a3522220/)
 - 🐙 [GitHub](https://github.com/DhirajSah736)
+
+## 🧪 Getting Started
+
+### Prerequisites
+
+- npm
+- git 
+- Your API key from weatherApi
+
+### 🔧 Installation
+
+```bash
+git clone https://github.com/DhirajSah736/Weather-pulse.git
+cd Weather-pulse
+npm install
+npm run dev
