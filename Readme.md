@@ -21,3 +21,12 @@
 🌍 [Weather Pulse](https://weather-pulse-one.vercel.app)  
 
 ---
+
+## 🧑‍💻 Author
+
+Designed and developed with ❤️ by **Dhiraj Sah**
+
+- 🌐 [Portfolio](https://www.dhirajsah99.com.np)
+- 📧 eyemdheeraj436@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/dhiraj-sah-7a3522220/)
+- 🐙 [GitHub](https://github.com/DhirajSah736)
