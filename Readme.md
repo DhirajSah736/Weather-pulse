@@ -13,3 +13,11 @@
 - ⚛️ React
 - ⚡ Vite
 - 🌐 WeatherAPI.com
+
+---
+
+## 📸 Live Preview
+
+🌍 [Weather Pulse](https://weather-pulse-one.vercel.app)  
+
+---
