@@ -18,6 +18,14 @@
 
 ---
 
+## 📸 Screenshots
+
+| Desktop View | Mobile View |
+|--------------|-------------|
+| ![Desktop](./src/image/weatherPulse(Desktop).jpg) | ![Mobile](./src/image/WeatherPulse(Mobile).jpg) |
+
+---
+
 ## 📸 Live Preview
 
 🌍 [Weather Pulse](https://weather-pulse-one.vercel.app)  
