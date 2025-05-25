@@ -2,6 +2,8 @@
 
 **Weather Pulse** is a sleek and fast weather app built with **React** and **Vite**, providing real-time weather updates using data from [WeatherAPI.com](https://www.weatherapi.com/).
 
+![Preview](./src/img/image-preview.jpg)
+
 ## 🚀 Features
 
 - Live weather data by city search
