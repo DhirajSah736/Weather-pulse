@@ -8,7 +8,7 @@
 
 - Live weather data by city search
 - Temperature, humidity, wind speed, and condition icons
-- Responsive design for all devices
+- Responsive design for all device
 
 ## 🔧 Tech Stack
 
